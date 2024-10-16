@@ -1,0 +1,1 @@
+import{b as u,u as g}from"./index.0b7480f9.js";var l=u(({router:r,store:s})=>{const o=g(s);r.beforeEach((t,f,e)=>{const a=o.isLoggedIn;t.meta.requiresAuth&&!a?(o.logout(),e("/login")):e()})});export{l as default};
