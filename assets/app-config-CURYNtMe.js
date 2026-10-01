@@ -1,0 +1,1 @@
+import{t as e}from"./wrappers-Dd2sgqS9.js";import{v as t}from"./index-D1oUzKIX.js";var n=3e3,r=e(async({store:e})=>{let r=t(e),i=r.refresh();r.hasCache||await Promise.race([i,new Promise(e=>setTimeout(e,n))]),document.addEventListener(`visibilitychange`,()=>{document.visibilityState===`visible`&&r.refreshIfStale()})});export{r as default};

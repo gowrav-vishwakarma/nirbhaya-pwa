@@ -1,0 +1,1 @@
+import{t as e}from"./wrappers-Dd2sgqS9.js";import{i as t,n,r}from"./i18n-Bt9lziT8.js";var i=e(async({app:e})=>{e.use(r),await t(n())});export{i as default};

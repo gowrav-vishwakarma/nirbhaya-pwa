@@ -1,0 +1,1 @@
+import{t as e}from"./wrappers-Dd2sgqS9.js";import{t}from"./notifications-DigWaqsv.js";var n=e(({store:e})=>{t(e).startPolling()});export{n as default};

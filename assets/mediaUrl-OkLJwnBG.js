@@ -1,0 +1,1 @@
+import{v as e}from"./index-D1oUzKIX.js";var t=/^(https?:)?\/\/|^(data|blob):/i;function n(n){return n?t.test(n)?n:`${(e().imageCdnUrl||`https://api.sosbharat.com`).replace(/\/+$/,``)}/${n.replace(/^\/+/,``)}`:``}export{n as t};

@@ -1,0 +1,1 @@
+import{C as e,E as t,O as n,_ as r}from"./runtime-core.esm-bundler-C_Fx9aNz.js";import{i}from"./vm-CPmf01Ny.js";function a(){let a,o=r();function s(){a=void 0}return o!==null&&(n(s),t(s)),{removeTick:s,registerTick(t){a=t,e(()=>{a===t&&((o===null||!i(o))&&a(),a=void 0)})}}}export{a as t};

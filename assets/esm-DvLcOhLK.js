@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-jA71RQs0.js","assets/dist-B20IMzVB.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./preload-helper-BZ1Pz5am.js";import{registerPlugin as t}from"./dist-B20IMzVB.js";var n=t(`BackgroundGeolocation`,{web:()=>e(()=>import(`./web-jA71RQs0.js`).then(e=>new e.BackgroundGeolocationWeb),__vite__mapDeps([0,1]))});export{n as BackgroundGeolocation};

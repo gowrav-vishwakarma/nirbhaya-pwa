@@ -1,0 +1,1 @@
+var e=[],t=[],n=!1;function r(e){n=!0,e.focus({preventScroll:!0}),n=!1}function i(){return n}function a(e){t=t.filter(t=>t!==e)}function o(e){a(e),t.push(e)}function s(n){a(n),t.length===0&&e.length!==0&&(e.at(-1)(),e=[])}function c(n){t.length===0?n():e.push(n)}function l(t){e=e.filter(e=>e!==t)}export{l as a,r as i,o as n,s as o,i as r,c as t};

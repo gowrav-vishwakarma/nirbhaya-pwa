@@ -1,0 +1,1 @@
+import{registerPlugin as e}from"./dist-B20IMzVB.js";var t=e(`PushNotifications`,{});export{t as PushNotifications};

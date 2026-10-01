@@ -1,0 +1,1 @@
+import{D as e,g as t}from"./index-D1oUzKIX.js";function n(e){t.create({type:`positive`,message:e})}function r(e){t.create({type:`info`,message:e})}function i(n,r){t.create({type:`negative`,message:typeof n==`string`?n:e(n,r)})}export{r as n,n as r,i as t};
